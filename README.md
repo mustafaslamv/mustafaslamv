@@ -2,8 +2,8 @@
 <h1 align="center">Hello there! 👋, I'm Mustafa Slama</h1>
 <h3 align="center">a Software Engineer from Egypt .</h3>
 
-- 👨🏻‍💻 I'm currently enrolled in the ALX Software Engineering Programme. **
-- 🌱 learning **fundamental engineering concepts**
+- 👨🏻‍💻 I'm currently enrolled in the **ALX Software Engineering Programme. **
+- 🌱still learning **fundamental engineering concepts** 📅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
