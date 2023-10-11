@@ -2,6 +2,7 @@
 <h1 align="left">Hey there!👋</h1>
 
 **It's me, Mustafa Salama!**
+
 **ALX Software Engineering Intern**
 
 <p align="left">
