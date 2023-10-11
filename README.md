@@ -1,12 +1,13 @@
 
-<h1 align="center">Hey there! It's Mustafa Salama! 👋</h1>
-<h3 align="center">description</h3>
+<h1 align="center">Hey there!👋</h1>
+
+<h3 align="center"> It's me, Mustafa Salama! ALX Software Engineering Intern</h3>
+
 <p align="center">
 - 👨🏻‍💻 I'm currently enrolled in the <strong>ALX Software Engineering internship</strong> 🚀<br>
 - 🌱 Still learning <strong>fundamental SWE concepts</strong> 📚<br>
 - 📅 This month, I am diving into networking fundamentals and creating my first web app. 💻
 </p>
-
 
 ###
 
