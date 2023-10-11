@@ -4,6 +4,11 @@
 **It's me, Mustafa Salama!**
 
 **ALX Software Engineering Intern**
+###
+
+<h2 align="left">About me</h2>
+
+###
 
 <p align="left">
 - 👨🏻‍💻 I'm currently enrolled in the <strong>ALX Software Engineering internship</strong> 🚀<br>
