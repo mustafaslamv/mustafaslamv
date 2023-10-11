@@ -1,7 +1,8 @@
 
 <h1 align="left">Hey there!👋</h1>
 
-<h3 align="left"> It's me, Mustafa Salama! ALX Software Engineering Intern</h3>
+<h3 align="left"> It's me, Mustafa Salama!</h3>
+<h4 align="left">ALX Software Engineering Intern</h4>
 
 <p align="left">
 - 👨🏻‍💻 I'm currently enrolled in the <strong>ALX Software Engineering internship</strong> 🚀<br>
