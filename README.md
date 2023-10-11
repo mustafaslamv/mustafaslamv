@@ -5,13 +5,18 @@
 - 👨🏻‍💻 I'm currently enrolled in the **ALX Software Engineering Programme.**
 - 🌱still learning **fundamental engineering concepts** 📅
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://raw.githubusercontent.com/mustafaslamv/mustafaslamv/output/snake.svg" alt="Snake animation" />
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/mustafaslama)
- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/mustafa_slama_)
+###
 
+<div align="left">
+  <a href="https://linkedin.com/in/mustafaslama" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/mustafa_slama_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-  
- </p>
+###
 
