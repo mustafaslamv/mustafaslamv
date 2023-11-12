@@ -13,7 +13,7 @@
 <p align="left">
 - 👨🏻‍💻 I'm currently enrolled in the <strong>ALX Software Engineering internship</strong> 🚀<br>
 - 🌱 Still learning <strong>fundamental SWE concepts</strong> 📚<br>
-- 📅 This month, I am diving into networking fundamentals and creating my first web app. 💻
+- 📅 In the coming months, I will be focusing on JavaScript, jQuery, Deployment, APIs, and more Systems Engineering/DevOps topics 👾
 </p>
 
 ###
