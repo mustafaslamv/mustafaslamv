@@ -25,3 +25,6 @@
 
 ###
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&animation=fadeIn&type=waving&color=gradient&height=100&rotate=180"/>
+</p>
