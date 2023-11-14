@@ -15,6 +15,8 @@
 - 📅 In the coming months, I will be focusing on JavaScript, jQuery, Deployment, APIs, and more Systems Engineering/DevOps topics 👾
 </p>
 
+![snake animation](https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake2.svg)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&animation=fadeIn&type=waving&color=gradient&height=70"/>
