@@ -20,14 +20,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://linkedin.com/in/mustafaslama" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/mustafa_slama_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="40" alt="twitter logo"  />
-  </a>
-</div>
 
 ![snake gif](https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake.gif)
 
