@@ -11,7 +11,7 @@
 <h2 align="left">About me</h2>
 
 <div >
- <img align="right" width="300" src="assets/home_anime.gif" alt="Coding gif" />
+ <img align="right" width="300" src="assets/home_anime2.gif" alt="Coding gif" />
   <br/><br/>
 - 👨🏻‍💻 I'm currently enrolled in the <strong>ALX Software Engineering internship</strong> 🚀 <br/><br/>
 - 🌱 Still learning <strong>fundamental SWE concepts</strong> 📚 <br/><br/>
