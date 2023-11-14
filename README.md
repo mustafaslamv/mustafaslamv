@@ -1,5 +1,8 @@
 
-<h1 align="left">Hey there!👋</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 **It's me, Mustafa Salama!**
 
