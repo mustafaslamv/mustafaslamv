@@ -11,7 +11,7 @@
 <h2 align="left">About me</h2>
 
 <div >
- <img align="right" width="300" src="assets/home_anime.gif" alt="Coding gif" />
+ <img align="right" width="300" src="assets/home_anime2.gif" alt="Coding gif"/>
   <br/><br/>
 - 👨🏻‍💻 I'm currently enrolled in the <strong>ALX Software Engineering internship</strong> 🚀 <br/><br/>
 - 🌱 Still learning <strong>fundamental SWE concepts</strong> 📚 <br/><br/>
@@ -19,7 +19,7 @@
 </div>
 
 
-![snake animation](https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
