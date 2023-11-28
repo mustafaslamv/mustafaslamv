@@ -11,15 +11,16 @@
 <h2 align="left">About me</h2>
 
 <div >
- <img align="right" width="300" src="assets/home_anime2.gif" alt="Coding gif"/>
+ <img align="left" width="300" src="assets/lofiboy.gif" alt="Coding gif"/>
   <br/><br/>
-- 👨🏻‍💻 I'm currently enrolled in the <strong>ALX Software Engineering internship</strong> 🚀 <br/><br/>
-- 🌱 Still learning <strong>fundamental SWE concepts</strong> 📚 <br/><br/>
-- 📅 In the coming months, I will be focusing on JavaScript, jQuery, Deployment, APIs, and more Systems Engineering/DevOps topics 👾 <br/><br/>
+  &nbsp;&nbsp; • 👨🏻‍💻 I'm currently enrolled in the <strong>ALX Software Engineering internship</strong> 🚀 <br/><br/>
+  &nbsp;&nbsp; • 🌱 Still learning <strong>fundamental SWE concepts</strong> 📚 <br/><br/>
+  &nbsp;&nbsp; • 📅 Now I'm Focusing on JavaScript, jQuery, Deployment, APIs, and more in Systems Engineering/DevOps 👾 
+  <br/><br/>
 </div>
 
 
-![snake animation](https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <p align="center">
