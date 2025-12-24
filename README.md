@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center"><strong>Mustafa Salama</strong></h3>
-<p align="center">Web & UI Development Trainee @ ITI</p>
+<p align="center">Front End Developer | ITI 9-Months Trainee</p>
 
 ---
 
