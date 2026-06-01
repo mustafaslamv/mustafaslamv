@@ -5,9 +5,8 @@
 <h3 align="center"><strong>Mustafa Salama</strong></h3>
 <p align="center">Front End Developer | ITI 9-Months Trainee</p>
 
----
 
-<h2 align="left">About Me</h2>
+<!-- <h2 align="left">About Me</h2>
 
 <table border="0">
   <tr>
@@ -21,22 +20,17 @@
       • 🛠 Practicing Git & GitHub workflow
     </td>
   </tr>
-</table>
+</table> -->
 
-
-
-
----
-
-<h2 align="left">Current Focus</h2>
-
+<!-- <h2 align="left">Current Focus</h2> -->
+<!--
 - CSS layouts 
 - Tailwind CSS  
 - Learning front-end frameworks (React / Angular)  
 - JavaScript fundamentals  
 - Team projects
+-->
 
----
 
 ![snake animation](https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake-dark.svg)
 
