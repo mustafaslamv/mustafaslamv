@@ -1,39 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20there!👋&fontColor=FFFFFF&fontSize=30&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mustafa%20Salama&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
 </p>
 
-<h3 align="center"><strong>Mustafa Salama</strong></h3>
-<p align="center">Front End Developer | ITI 9-Months Trainee</p>
-
-
-<!-- <h2 align="left">About Me</h2>
-
-<table border="0">
-  <tr>
-    <td>
-      <img width="300px" src="assets/lofiboy.gif" alt="Coding gif"/>
-    </td>
-    <td style="border: none;padding-left: 200px; vertical-align: top;">
-      • 🎓 Enrolled in <strong>ITI – Web & UI Development Track</strong><br><br>
-      • 🌱 Learning <strong>HTML, CSS, JavaScript</strong><br><br>
-      • ⚡ Focusing on <strong>Tailwind CSS, responsive layouts, and front-end frameworks (React/Angular)</strong><br><br>
-      • 🛠 Practicing Git & GitHub workflow
-    </td>
-  </tr>
-</table> -->
-
-<!-- <h2 align="left">Current Focus</h2> -->
-<!--
-- CSS layouts 
-- Tailwind CSS  
-- Learning front-end frameworks (React / Angular)  
-- JavaScript fundamentals  
-- Team projects
--->
-
-
-![snake animation](https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  Frontend Developer focused on React & TypeScript</br>
+  Currently building <b>Uply</b>, a fitness coaching platform, as my graduation project.
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&animation=fadeIn&type=waving&color=gradient&height=70"/>
+  <a href="https://mostafasalama.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:mostafasalama.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<br/>
+
+
+## 🛠 Tech Stack
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,vite" />
+</p>
+
+**Styling & UI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" width="48" height="48" alt="Shadcn UI"/>
+  <img src="https://cdn.simpleicons.org/mui/007FFF" width="48" height="48" alt="Material UI"/>
+</p>
+
+**State, Forms & Data**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" width="48" height="48" alt="Zustand"/>
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" width="48" height="48" alt="Axios"/>
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="48" height="48" alt="React Hook Form"/>
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" width="48" height="48" alt="Zod"/>
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48" alt="Socket.IO"/>
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/mustafaslamv/mustafaslamv/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 </p>
